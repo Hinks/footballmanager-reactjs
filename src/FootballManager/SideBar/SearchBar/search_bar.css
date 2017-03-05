@@ -1,0 +1,19 @@
+#search_bar{
+  background-color: #cbced6;
+  padding: 10px 10px;
+  margin-bottom: 10px;
+}
+
+#search_bar label{
+  font-weight: bold;
+}
+
+#search_bar input[type="text"]{
+  width: 100%;
+  padding: 5px 10px;
+  margin: 5px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}

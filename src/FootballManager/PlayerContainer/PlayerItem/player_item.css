@@ -1,0 +1,51 @@
+.player_item{
+  padding: 10px 10px 10px 10px;
+  background-color: #cbced6;
+  margin-bottom: 5px;
+  margin-left:auto;
+  margin-right:auto;
+  width: 80%;
+}
+
+.player_property_list{
+}
+.player_property_list li{
+  margin-bottom: 5px;
+}
+
+.player_property{
+  margin-bottom: 5px;
+}
+.player_property .prop_name{
+  float: left;
+  width: 20%;
+}
+.player_property .prop_info{
+  font-weight: bold;
+}
+
+.edit_button{
+  background-color: #4CAF50; /* Green */
+  border: 1px solid black;
+  color: white;
+  margin-left: 70%;
+  padding: 5px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer
+}
+
+.delete_button{
+  background-color: red;
+  border: 1px solid black;
+  color: white;
+  padding: 5px 12px;
+  margin-left: 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer
+}
