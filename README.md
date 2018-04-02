@@ -6,3 +6,5 @@ node.js and npm
 2. cd into the project folder.
 3. npm install --- For fetching required dependencies.
 4. npm start --- For starting the application.
+
+Click on the Wiki page to see an image of the application.
